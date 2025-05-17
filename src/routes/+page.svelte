@@ -1,0 +1,1 @@
+<h1 class="text-white text-3xl font-mono m-2">404 Page Not Found</h1>
