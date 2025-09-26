@@ -10,7 +10,7 @@
 
     // fetch promise is set in onMount so that the browser doesn't prefetch to see if fetch is permitted with CORS, dont change this.
     onMount(() => {
-        promise = fetch(`https://solitarju.uk/verify/${page.params.token}`, { method: 'DELETE' });
+        promise = fetch(`https://vn.solitarju.uk/verify/${page.params.token}`, { method: 'DELETE' });
     })
 </script>
 
